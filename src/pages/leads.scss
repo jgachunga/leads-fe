@@ -1,0 +1,18 @@
+.accordion-item {
+    margin: .8rem;
+    border-radius: 15px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 1px 3px 2px 4px rgba(222,222,222,0.75);
+
+    .approve-button {
+        width: 100%;
+        border-radius: 3rem;
+    }
+    .not-a-fit-btn {
+        background-color: #e5e5e5;
+    }
+    .opinion-btn {
+        border-radius: 3rem;
+        width: 16rem;
+    }
+}

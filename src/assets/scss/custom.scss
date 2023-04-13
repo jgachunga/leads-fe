@@ -1,0 +1,13 @@
+// Required
+@import "bootstrap/scss/functions";
+
+// Default variable overrides
+// Required
+@import "variables";
+@import "bootstrap/scss/mixins";
+
+// Optional Bootstrap components here
+
+@import "bootstrap/scss/bootstrap";
+
+@import "custom-styles";
